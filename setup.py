@@ -1,12 +1,12 @@
-﻿from setuptools import setup, find_packages
+from setuptools import setup, find_packages
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
     name="freelanceflow",
-    version="1.0.0",
-    author="FreelanceFlow",
+    version="1.0.1",
+    author="Cyprain Chidozie",
     author_email="hello@usefreelanceflow.com",
     description="Python SDK for AI Observability - Monitor LLM usage across 21+ models with smart routing, cost tracking, and budget management",
     long_description=long_description,
