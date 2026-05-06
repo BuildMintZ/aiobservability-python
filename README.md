@@ -30,7 +30,7 @@ Monitor, track, and optimize your LLM usage across 21+ AI models with one SDK.
 ## 📦 Installation
 
 ```bash
-pip install aiobservability
+pip install freelanceflow
 🚀 Quick Start
 python
 from aiobservability import AIObservability

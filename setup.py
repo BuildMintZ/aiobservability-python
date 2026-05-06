@@ -4,18 +4,18 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="aiobservability",
+    name="freelanceflow",
     version="1.0.0",
     author="FreelanceFlow",
     author_email="hello@usefreelanceflow.com",
     description="Python SDK for AI Observability - Monitor LLM usage across 21+ models with smart routing, cost tracking, and budget management",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/freelanceflow/aiobservability-python",
+    url="https://github.com/BuildMintZ/aiobservability-python",
     project_urls={
         "Documentation": "https://ai-api.usefreelanceflow.com/docs",
-        "Source": "https://github.com/freelanceflow/aiobservability-python",
-        "Tracker": "https://github.com/freelanceflow/aiobservability-python/issues",
+        "Source": "https://github.com/BuildMintZ/aiobservability-python",
+        "Tracker": "https://github.com/BuildMintZ/aiobservability-python/issues",
     },
     packages=find_packages(),
     classifiers=[
