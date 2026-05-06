@@ -91,6 +91,7 @@ Full documentation: https://ai-api.usefreelanceflow.com/docs
 
 🔑 Authentication
 Get your API key from the AI Observability Dashboard.
+https://observability.usefreelanceflow.com/app/dashboard
 
 Demo key for testing: ai_demo_key_12345
 
