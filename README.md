@@ -103,5 +103,7 @@ python -c "from aiobservability import AIObservability; print('SDK works!')"
 🤝 Contributing
 Contributions welcome! Please see CONTRIBUTING.md.
 
+https://pypi.org/project/freelanceflow/
+
 📄 License
 MIT License - see LICENSE file for details.
